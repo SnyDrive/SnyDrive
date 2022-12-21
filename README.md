@@ -1,6 +1,6 @@
-# Your Name
+# Hi 👋, I'm Sunil, a Blockchain engineering Student
 
-A brief introduction about yourself.
+I'm passionate about web and Blockchain integrations on it.
 
 ## Skills
 
