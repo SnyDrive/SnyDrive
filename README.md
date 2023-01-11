@@ -6,11 +6,15 @@ I'm passionate about web and Blockchain integrations on it.
 
 ### Languages :
   - JavaScript
+  - HTML / CSS
   - Python
   - C#
   - C++
   - Rust
   - Solidity
+  - Bash
+  - Matlab
+  - R
   
 ### Frameworks :
   - NodeJS
