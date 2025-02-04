@@ -1,4 +1,4 @@
-# Hi 👋 I'm Sunil, a Blockchain engineering Student
+# Hi 👋 I'm Sunil, a Blockchain Engineer
 
 I'm passionate about web and Blockchain integrations on it.
 
