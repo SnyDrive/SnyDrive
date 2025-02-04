@@ -15,5 +15,5 @@ I'm passionate about web and Blockchain integrations on it.
 
 ## Contact
 
-- Email: sunil.goulamhoussen@edu.devinci.fr
+- Email: sunilgouvi@gmail.com
 - LinkedIn: [Sunil](https://www.linkedin.com/in/sunil-goulamhoussen/)
