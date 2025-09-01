@@ -1,6 +1,6 @@
-# Hi 👋 I'm Sunil, a Blockchain Engineer
+# Hi 👋 I'm Sunil, a FinTech Engineer
 
-I'm passionate about web and Blockchain integrations on it.
+I'm passionate about Software and Blockchain integrations on it.
 
 ## Skills
 
